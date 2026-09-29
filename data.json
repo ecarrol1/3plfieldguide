@@ -2591,7 +2591,8 @@
     "audience_evidence": "Audience reflects channels or product groups explicitly addressed by the cited sources.",
     "categories": [
       "3pl-companies",
-      "ecommerce-fulfillment"
+      "ecommerce-fulfillment",
+      "amazon-fulfillment"
     ],
     "evidence_by_field": {
       "name": [
@@ -2684,6 +2685,10 @@
       "ecommerce-fulfillment": {
         "source_url": "https://www.fulfillrite.com/faqs/",
         "supporting_fact": "DTC fulfillment"
+      },
+      "amazon-fulfillment": {
+        "source_url": "https://www.fulfillrite.com/faqs/",
+        "supporting_fact": "Parcel fulfillment, kitting and FBA prep for existing clients"
       }
     }
   },
